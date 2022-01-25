@@ -138,7 +138,6 @@ ion-icon,
 }
 
 #parte2::after {
-    content: 'DUBI #1';
     position: absolute;
     color: #fff;
     margin-bottom: 400px;
